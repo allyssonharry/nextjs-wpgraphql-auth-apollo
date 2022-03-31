@@ -1,0 +1,6 @@
+// bootstrap override variables
+@import './common/_variables';
+// global styles
+@import './common/_global';
+// import everyting from bootstrap
+@import '~bootstrap/scss/bootstrap';
